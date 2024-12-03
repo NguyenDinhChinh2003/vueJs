@@ -1,18 +1,88 @@
 {
-    "books": [
-        {
-            "author": "J.R.R. Tolkien",
-            "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg/220px-The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg",
-            "id": 1,
-            "title": "The Lord of the Rings",
-            "year": "1954"
-        },
-        {
-            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
-            "cover": " https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Data-structures-and-algorithms.jpg/220px-Data-structures-and-algorithms.jpg",
-            "id": 2,
-            "title": "Data Structures and Algorithms",
-            "year": "2008"
-        }
-    ]
+  "projects": [
+    {
+      "id": "1",
+      "title": "project 1",
+      "description": "new project 1",
+      "startDate": "2024-11-20",
+      "endDate": "2024-11-30"
+    },
+    {
+      "id": "2",
+      "title": "project 2",
+      "description": "create new project 2",
+      "startDate": "2024-12-03",
+      "endDate": "2024-12-06"
+    },
+    {
+      "id": "3",
+      "title": "project 3",
+      "description": "create new project 3",
+      "startDate": "2024-12-04",
+      "endDate": "2024-12-13"
+    },
+    {
+      "id": "4",
+      "title": "project 4",
+      "description": "create new project 4",
+      "startDate": "2024-11-24",
+      "endDate": "2024-12-01"
+    },
+    {
+      "id": "5",
+      "title": "project 5",
+      "description": "create new project 5",
+      "startDate": "2024-12-24",
+      "endDate": "2024-12-28"
+    },
+    {
+      "id": "6",
+      "title": "project 6",
+      "description": "create new project 6",
+      "startDate": "2024-12-06",
+      "endDate": "2024-12-07"
+    },
+    {
+      "id": "7",
+      "title": "tilfnvd",
+      "description": "ldkfnvdno",
+      "startDate": "2024-12-05",
+      "endDate": "2024-12-20"
+    },
+    {
+      "id": "8",
+      "title": "bdjbv",
+      "description": "jbvbfvo",
+      "startDate": "2024-12-03",
+      "endDate": "2024-12-27"
+    },
+    {
+      "id": "9",
+      "title": "project 9",
+      "description": "dfjlvnldfno",
+      "startDate": "2024-12-04",
+      "endDate": "2024-12-20"
+    },
+    {
+      "id": "10",
+      "title": "dlknv",
+      "description": "nvonvo",
+      "startDate": "2024-12-15",
+      "endDate": "2024-12-28"
+    },
+    {
+      "id": "11",
+      "title": "cidcsbb",
+      "description": "kjbvsd",
+      "startDate": "2024-12-20",
+      "endDate": "2024-12-28"
+    },
+    {
+      "id": "12",
+      "title": "cdksb",
+      "description": "dlcsdbk",
+      "startDate": "2024-12-05",
+      "endDate": "2024-12-14"
+    }
+  ]
 }
